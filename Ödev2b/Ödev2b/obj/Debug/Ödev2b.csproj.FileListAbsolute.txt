@@ -1,0 +1,5 @@
+C:\Users\Ali\Desktop\Ödev2b\Ödev2b\bin\Debug\Ödev2b.exe.config
+C:\Users\Ali\Desktop\Ödev2b\Ödev2b\bin\Debug\Ödev2b.exe
+C:\Users\Ali\Desktop\Ödev2b\Ödev2b\bin\Debug\Ödev2b.pdb
+C:\Users\Ali\Desktop\Ödev2b\Ödev2b\obj\Debug\Ödev2b.exe
+C:\Users\Ali\Desktop\Ödev2b\Ödev2b\obj\Debug\Ödev2b.pdb
