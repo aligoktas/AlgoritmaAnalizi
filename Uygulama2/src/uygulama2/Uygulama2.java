@@ -20,7 +20,7 @@ public class Uygulama2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    long startTime = System.currentTimeMillis();       
+          
     int[] dizi = new int[10];
  
   int gecici=0;
