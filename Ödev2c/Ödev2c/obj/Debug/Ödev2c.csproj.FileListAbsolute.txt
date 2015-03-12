@@ -4,3 +4,9 @@ C:\Users\Ali\Desktop\Ödev2c\Ödev2c\bin\Debug\Ödev2c.pdb
 C:\Users\Ali\Desktop\Ödev2c\Ödev2c\obj\Debug\Ödev2c.exe
 C:\Users\Ali\Desktop\Ödev2c\Ödev2c\obj\Debug\Ödev2c.pdb
 C:\Users\Ali\Desktop\Ödev2c\Ödev2c\obj\Debug\Ödev2c.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\4.sınıf\bahar\Algoritma Analizi\algoritma analizi ödevler\Ödev2c\Ödev2c\bin\Debug\Ödev2c.exe.config
+C:\Users\Ali\Desktop\4.sınıf\bahar\Algoritma Analizi\algoritma analizi ödevler\Ödev2c\Ödev2c\obj\Debug\Ödev2c.exe
+C:\Users\Ali\Desktop\4.sınıf\bahar\Algoritma Analizi\algoritma analizi ödevler\Ödev2c\Ödev2c\obj\Debug\Ödev2c.pdb
+C:\Users\Ali\Desktop\4.sınıf\bahar\Algoritma Analizi\algoritma analizi ödevler\Ödev2c\Ödev2c\bin\Debug\Ödev2c.exe
+C:\Users\Ali\Desktop\4.sınıf\bahar\Algoritma Analizi\algoritma analizi ödevler\Ödev2c\Ödev2c\bin\Debug\Ödev2c.pdb
+C:\Users\Ali\Desktop\4.sınıf\bahar\Algoritma Analizi\algoritma analizi ödevler\Ödev2c\Ödev2c\obj\Debug\Ödev2c.csprojResolveAssemblyReference.cache

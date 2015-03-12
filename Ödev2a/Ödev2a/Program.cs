@@ -8,25 +8,43 @@ namespace Ödev2a
 {
     class Program
     {
-        public static int EnBuyukEleman(int[] dizi)
+        public static int DiziMaxEleman(int[] dizi)
         {
-            int enbuyukEleman = 0;
+            int maxEleman = 0;
 
             for (int i = 0; i < dizi.Length; i++)
             {
-                if (dizi[i] > enbuyukEleman)
+                if (dizi[i] > maxEleman)
                 {
-                    enbuyukEleman = dizi[i];
+                    maxEleman = dizi[i];
                 }
 
             }
-            return enbuyukEleman;
+            return maxEleman;
         }
         static void Main(string[] args)
         {
+            long diziSize = 0;
+            int sayi = 0;
+        
+            Console.WriteLine("Dizi kaç elemanlı olsun :  ");
+            diziSize = Convert.ToInt64(Console.ReadLine());
+            int[] a = new int[diziSize];
 
-            int[] a = { 10, 5, 12, -1, 7, 13, 9, 0 };
-            Console.WriteLine("En büyük eleman: " + EnBuyukEleman(a));
+            Random rnd = new Random();
+            for (int i = 0; i < diziSize; i++)
+            {
+                sayi = rnd.Next(1, 1000);
+                a[i] = sayi;
+
+            }
+            for (int i = 0; i < a.Length; i++)
+            {
+                Console.Write(a[i] +" ");
+               
+
+            }
+            Console.WriteLine("Dizinin Maximum elemanı =  " + DiziMaxEleman(a));
 
 
         }

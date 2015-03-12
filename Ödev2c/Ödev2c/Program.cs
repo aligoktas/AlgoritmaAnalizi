@@ -8,7 +8,7 @@ namespace Ödev2c
 {
     class Program
     {
-        public static int Sort(int[] dizi, int k)
+        public static int DiziSırala(int[] dizi, long k)
         {
             int gecici = 0;
 
@@ -36,26 +36,35 @@ namespace Ödev2c
         }
         static void Main(string[] args)
         {
-            int[] a = new int[1000];
-            Random rnd = new Random();
-            for (int i = 0; i < 1000; i++)
-            {
-                int sayi = rnd.Next(1, 1000);
-                a[i] = sayi;
-            }
+            long diziSize = 0;
+            int sayi = 0;
 
-            int istenenEleman;
-            Console.WriteLine("Sıralanmamış Dizi :" );
+            Console.WriteLine("Dizi kaç elemanlı olsun :  ");
+            diziSize = Convert.ToInt64(Console.ReadLine());
+            int[] a = new int[diziSize];
+
+            Random rnd = new Random();
+            for (int i = 0; i < diziSize; i++)
+            {
+                sayi = rnd.Next(1, 1000);
+                a[i] = sayi;
+
+            }
+            Console.WriteLine("Sıralanmamış Dizi :");
             for (int i = 0; i < a.Length; i++)
             {
-                Console.Write(a[i]+ " ");
+                Console.Write(a[i] + " ");
+
+
             }
+            long k=0;//istenilen eleman
+         
             
             Console.WriteLine(" ");
 
             Console.Write("Kaçıncı Eleman : ");
-            istenenEleman = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(Sort(a, istenenEleman));
+            k = Convert.ToInt64(Console.ReadLine());
+            Console.WriteLine(DiziSırala(a, k));
             
 
          
