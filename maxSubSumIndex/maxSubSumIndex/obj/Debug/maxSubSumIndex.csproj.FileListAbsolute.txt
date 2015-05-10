@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2012\Projects\maxSubSumIndex\maxSubSumIndex\bin\Debug\maxSubSumIndex.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\maxSubSumIndex\maxSubSumIndex\bin\Debug\maxSubSumIndex.exe
+c:\users\ali\documents\visual studio 2012\Projects\maxSubSumIndex\maxSubSumIndex\bin\Debug\maxSubSumIndex.pdb
+c:\users\ali\documents\visual studio 2012\Projects\maxSubSumIndex\maxSubSumIndex\obj\Debug\maxSubSumIndex.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2012\Projects\maxSubSumIndex\maxSubSumIndex\obj\Debug\maxSubSumIndex.exe
+c:\users\ali\documents\visual studio 2012\Projects\maxSubSumIndex\maxSubSumIndex\obj\Debug\maxSubSumIndex.pdb
