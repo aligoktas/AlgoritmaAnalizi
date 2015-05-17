@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2012\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2012\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+c:\users\ali\documents\visual studio 2012\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+c:\users\ali\documents\visual studio 2012\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+c:\users\ali\documents\visual studio 2012\Projects\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
