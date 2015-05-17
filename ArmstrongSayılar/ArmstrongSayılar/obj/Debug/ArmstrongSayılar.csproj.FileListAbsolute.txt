@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2012\Projects\ArmstrongSayılar\ArmstrongSayılar\bin\Debug\ArmstrongSayılar.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\ArmstrongSayılar\ArmstrongSayılar\bin\Debug\ArmstrongSayılar.exe
+c:\users\ali\documents\visual studio 2012\Projects\ArmstrongSayılar\ArmstrongSayılar\bin\Debug\ArmstrongSayılar.pdb
+c:\users\ali\documents\visual studio 2012\Projects\ArmstrongSayılar\ArmstrongSayılar\obj\Debug\ArmstrongSayılar.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2012\Projects\ArmstrongSayılar\ArmstrongSayılar\obj\Debug\ArmstrongSayılar.exe
+c:\users\ali\documents\visual studio 2012\Projects\ArmstrongSayılar\ArmstrongSayılar\obj\Debug\ArmstrongSayılar.pdb
