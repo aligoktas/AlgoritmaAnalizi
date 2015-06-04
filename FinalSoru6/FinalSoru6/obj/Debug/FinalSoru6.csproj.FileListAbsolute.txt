@@ -1,0 +1,5 @@
+c:\users\ali\documents\visual studio 2012\Projects\FinalSoru6\FinalSoru6\bin\Debug\FinalSoru6.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\FinalSoru6\FinalSoru6\bin\Debug\FinalSoru6.exe
+c:\users\ali\documents\visual studio 2012\Projects\FinalSoru6\FinalSoru6\bin\Debug\FinalSoru6.pdb
+c:\users\ali\documents\visual studio 2012\Projects\FinalSoru6\FinalSoru6\obj\Debug\FinalSoru6.exe
+c:\users\ali\documents\visual studio 2012\Projects\FinalSoru6\FinalSoru6\obj\Debug\FinalSoru6.pdb
